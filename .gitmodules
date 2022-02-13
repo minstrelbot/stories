@@ -1,3 +1,6 @@
 [submodule "onceuponatest"]
 	path = onceuponatest
 	url = https://github.com/pathfinderbot/onceuponatest
+[submodule "anotherdayofwork"]
+	path = anotherdayofwork
+	url = https://github.com/minstrelbot/anotherdayofwork
