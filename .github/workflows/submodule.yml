@@ -23,5 +23,5 @@ jobs:
         run: |
           git config --global user.name "Github Actions"
           git config --global user.email "actions@github.com"
-          git commit -am "Update submodules"
+          git commit -am "Update submodules" || echo "No updates to commit"
           git push
